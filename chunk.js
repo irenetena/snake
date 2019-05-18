@@ -98,7 +98,7 @@ var CHUNK = {
     var context = canvas.getContext('2d');
     context.font = '40pt Papyrus';
     context.fillStyle = 'blue';
-    context.fillText(message, 290, 280);
+    context.fillText(message, 200, 280);
   }
 }
 
